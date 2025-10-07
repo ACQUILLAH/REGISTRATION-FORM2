@@ -269,4 +269,5 @@ document.documentElement.style.setProperty('--strength-width', '0%');
 // Initialize the form when DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
     new RegistrationForm();
+
 });
